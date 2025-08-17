@@ -1,6 +1,6 @@
 FROM node:22
 
-WORKDIR /nextjs-dashboard-app
+WORKDIR .
 
 RUN npm install
 
