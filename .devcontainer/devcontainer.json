@@ -7,7 +7,9 @@
     5050
   ],  
   "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/itsmechlark/features/postgresql:1": {},
+    "ghcr.io/devcontainers/features/node:1": {}
   },  
   "customizations": {    
     "vscode": {
